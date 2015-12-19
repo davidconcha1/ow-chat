@@ -1,0 +1,1 @@
+The goal of this project is to create a simple chat server using Java web services. Java and .NET client applications are developed to consume the web service and deliver a simple chat system to a small group of people.
